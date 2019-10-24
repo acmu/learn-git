@@ -17,3 +17,9 @@ add line 1
 add line 2
 
 add line 3
+
+amend 1
+
+amend 2
+
+amend 3
